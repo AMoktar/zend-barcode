@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-barcode",
+    "name": "amoktar/zend-barcode",
     "description": "Programmatically create and render barcodes as images or in PDFs",
     "license": "BSD-3-Clause",
     "keywords": [
